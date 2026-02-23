@@ -4,7 +4,7 @@
 A console-based food ordering and billing system inspired by McDonald's.
 This project is built using C++ and demonstrates basic programming concepts like loops, arrays, switch-case, and billing calculations.
 
-👨‍💻 Team Members
+#👨‍💻 Team Members
 
 Tejas Chavan
 
